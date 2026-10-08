@@ -11,3 +11,11 @@ Like I mentioned previously, some of the tools I used were the Spyder applicatio
 ## *Files Used* 🐸
 
 Attached to this repository are a few of my Python assignments I completed for my Computational Thinking course and a draw.io file that contains some relational diagrams for my Database Management course. 
+
+## How to Run Program
+
+All programs should be able to run without any additional software. The Python programs can be exported directly as a .py file, and the draw.io files can be read as PDFs.
+
+## Additional Notes
+
+I hope you enjoyed reading my first repository!
